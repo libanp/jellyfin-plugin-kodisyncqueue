@@ -6,7 +6,7 @@
 * `git clone https://github.com/jellyfin/jellyfin-plugin-kodisyncqueue`
 * `cd jellyfin-plugin-kodisyncqueue`
 * `git submodule update --init`
-* `dotnet build`
+* `dotnet publish --configuration Release --output bin`
 * Build output is in `./bin/`
 
 ## Install
