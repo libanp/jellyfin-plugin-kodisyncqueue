@@ -11,5 +11,5 @@
 
 ## Install
 
-* Copy the built .dll file to the Jellyfin plugin directory (`/var/lib/jellyfin/plugins' on linux)
+* Copy the built .dll file to the Jellyfin plugin directory (`/var/lib/jellyfin/plugins` on linux)
 * Restart Jellyfin server
